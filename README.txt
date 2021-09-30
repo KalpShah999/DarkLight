@@ -14,3 +14,5 @@ This repository is missing 3 files from the actual project due to their size:
 
 
 Game trailer can be found at: https://youtu.be/p7OOvuimKLE
+
+Current Game Builds for both Windows(x86) and MacOS can be found at: https://drive.google.com/drive/folders/142MUqNdlrk6xzOIcP99V_LUWCCULtUWk?usp=sharing
