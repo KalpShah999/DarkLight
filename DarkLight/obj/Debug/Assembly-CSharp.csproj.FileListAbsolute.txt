@@ -1,0 +1,2 @@
+C:\Users\kalps\OneDrive\Documents\Unity Projects\DarkLight with Pipeline\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\kalps\OneDrive\Documents\Unity Projects\DarkLight with Pipeline\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

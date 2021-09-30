@@ -1,0 +1,110 @@
+# Exported from Fuse 1.3.0
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd scietist 1 test_Hair_diffuse.png
+map_Ks scietist 1 test_Hair_specular.png
+bump scietist 1 test_Hair_normal.png
+map_Ns scietist 1 test_Hair_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd scietist 1 test_Body_diffuse.png
+map_Ks scietist 1 test_Body_specular.png
+bump scietist 1 test_Body_normal.png
+map_Ns scietist 1 test_Body_gloss.png
+
+newmtl Moustache
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd scietist 1 test_Moustache_diffuse.png
+map_Ks scietist 1 test_Moustache_specular.png
+bump scietist 1 test_Moustache_normal.png
+map_Ns scietist 1 test_Moustache_gloss.png
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd scietist 1 test_Top_diffuse.png
+map_Ks scietist 1 test_Top_specular.png
+bump scietist 1 test_Top_normal.png
+map_Ns scietist 1 test_Top_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd scietist 1 test_Bottom_diffuse.png
+map_Ks scietist 1 test_Bottom_specular.png
+bump scietist 1 test_Bottom_normal.png
+map_Ns scietist 1 test_Bottom_gloss.png
+
+newmtl Beard
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd scietist 1 test_Beard_diffuse.png
+map_Ks scietist 1 test_Beard_specular.png
+bump scietist 1 test_Beard_normal.png
+map_Ns scietist 1 test_Beard_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd scietist 1 test_Shoes_diffuse.png
+map_Ks scietist 1 test_Shoes_specular.png
+bump scietist 1 test_Shoes_normal.png
+map_Ns scietist 1 test_Shoes_gloss.png
+
+newmtl Eyewear
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd scietist 1 test_Eyewear_diffuse.png
+map_Ks scietist 1 test_Eyewear_specular.png
+bump scietist 1 test_Eyewear_normal.png
+map_Ns scietist 1 test_Eyewear_gloss.png
+
+newmtl Glove
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd scietist 1 test_Glove_diffuse.png
+map_Ks scietist 1 test_Glove_specular.png
+bump scietist 1 test_Glove_normal.png
+map_Ns scietist 1 test_Glove_gloss.png
+
